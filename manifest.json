@@ -1,0 +1,9 @@
+{
+    "name": "Detect Broken Variables",
+    "id": "detect-broken-variables",
+    "api": "1.0.0",
+    "main": "main.js",
+    "editorType": [
+        "figma"
+    ]
+}
